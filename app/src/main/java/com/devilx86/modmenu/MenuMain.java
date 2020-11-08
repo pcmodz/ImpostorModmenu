@@ -1,4 +1,4 @@
-package com.devilx86.modmenu;
+package com.pcm0dz.modmenu;
 
 import android.content.Context;
 import android.content.Intent;
